@@ -15,7 +15,7 @@ img{
 }
 section{
     margin: 0 auto;
-    max-width: 70vw;
+    max-width: 1100px;
     text-align: center;
 }
 /* Titolo / Intestazione */
@@ -63,14 +63,13 @@ header{
 .card__img{
     float: left;
     width: 100px;
-    height: 100px;
 }
 .card__content{
-    float: left;
-    margin-top: 10px;
-    margin-left: 15px;    
+    float: left;   
+    margin-left: 15px; 
 }
 .card__title{
+    margin-top: 10px;
     text-transform: uppercase;
     font-weight: 700;
 }
