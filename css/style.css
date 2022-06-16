@@ -53,6 +53,7 @@ header{
 }
 /* contenuto carte */
 .card__item{
+    width: 100%;
     color: #fff;
     overflow: hidden;
     text-align: left;
